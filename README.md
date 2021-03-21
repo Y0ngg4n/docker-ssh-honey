@@ -3,6 +3,8 @@ SSH Honey pot for docker
 
 Using Alpine as base image now to take container from 1GB to around 118MB
 
+Updated to latest alpine image because of this CVE: https://alpinelinux.org/posts/Docker-image-vulnerability-CVE-2019-5021.html
+
 Using https://github.com/droberson/ssh-honeypot
 
 FROM THE README
